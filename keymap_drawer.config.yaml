@@ -1,0 +1,6 @@
+parse_config:
+  zmk_keymap: config/pinkeybd.keymap
+
+draw_config:
+  key_w: 60
+  key_h: 56

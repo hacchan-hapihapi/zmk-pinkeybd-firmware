@@ -3,6 +3,9 @@
 #include "pinkeybd-layer.dtsi"
 #include <dt-bindings/zmk/pointing.h>
 #include <input/processors.dtsi>
+
+#include "pinkeybd-layouts.dtsi"
+
 #define ZMK_POINTING_DEFAULT_SCRL_VAL 150
 
 &lt {
